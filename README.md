@@ -1,4 +1,4 @@
-# OmniCD Mirror
+# OmniCD. Mirror
 
 This is a mirror of Treebonker's OmniCD.
 
